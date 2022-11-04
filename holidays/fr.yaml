@@ -82,7 +82,7 @@ Auvergne-Rhône-Alpes:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Bourgogne-Franche-Comté (Académies de Besançon, Dijon)
 Bourgogne-Franche-Comté:
@@ -127,7 +127,7 @@ Bourgogne-Franche-Comté:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Nouvelle-Aquitaine (Académies de Bordeaux, Limoges, Poitiers)
 Nouvelle-Aquitaine:
@@ -172,7 +172,7 @@ Nouvelle-Aquitaine:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 # Zone B:
 # -------
@@ -219,7 +219,7 @@ Bretagne:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Centre-Val de Loire (Académie de Orléans-Tours)
 Centre-Val de Loire:
@@ -264,7 +264,7 @@ Centre-Val de Loire:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Grand Est (Académies de Nancy-Metz, Reims, Strasbourg)
 Grand Est:
@@ -309,7 +309,7 @@ Grand Est:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Hauts-de-France (Académies de Amiens, Lille)
 Hauts-de-France:
@@ -354,7 +354,7 @@ Hauts-de-France:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Normandie (Académies de Caen, Rouen)
 Normandie:
@@ -399,7 +399,7 @@ Normandie:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Pays de la Loire (Académie de Nantes)
 Pays de la Loire:
@@ -444,7 +444,7 @@ Pays de la Loire:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Provence-Alpes-Côte d'Azur (Académies de Aix-Marseille, Nice)
 Provence-Alpes-Côte d'Azur:
@@ -489,7 +489,7 @@ Provence-Alpes-Côte d'Azur:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 # Zone C:
 # -------
@@ -537,7 +537,7 @@ Provence-Alpes-Côte d'Azur:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 #  Région Occitanie (Académies de Montpellier, Toulouse)
 Occitanie:
@@ -582,7 +582,7 @@ Occitanie:
       '2019': [12, 22, 1, 5]
       '2020': [12, 20, 1, 3]
       '2021': [12, 19, 1, 2]
-      '2022': [12, 17, 1, 1]
+      '2022': [12, 17, 1, 2]
 
 # Corse et Outre-Mer:
 # -------------------
